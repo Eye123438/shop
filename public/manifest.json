@@ -1,0 +1,20 @@
+{
+  "name": "QUICKLINK SERVICES",
+  "short_name": "QuickLink",
+  "description": "Your Time, Our Priority - Professional errand and delivery services",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8B0000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "productivity", "shopping"],
+  "lang": "en"
+}
